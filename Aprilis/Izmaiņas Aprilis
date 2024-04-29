@@ -1,0 +1,6 @@
+Izmaiņas no decembra kopijas ir izmainīta ER-diagramma un tās objektū attiecības un tika papildināta DB ar to aprakstu.
+
+Izmaiņas programā, tika izmanits vizuāls interfeiss PASŪTĪJUMIEM katram pasūrijumam ir savs PDF fails.
+Tagad jebkur kur veikala ir redzams kaut kāda produkta atēls uzpiežot uz to var sīkak apskatīt to informāciju.
+Lietotāja pasūtijumi tika parvietoti uz profilu tur arī var atjaunot profilu.
+Un sīkas izmaiņas interfeisā.
